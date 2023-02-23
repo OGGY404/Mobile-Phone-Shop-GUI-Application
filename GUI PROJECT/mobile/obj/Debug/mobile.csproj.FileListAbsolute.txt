@@ -1,0 +1,303 @@
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.Form1.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.Properties.Resources.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.csproj.GenerateResource.cache
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\bin\Debug\mobile.exe.config
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\bin\Debug\mobile.exe
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\bin\Debug\mobile.pdb
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.exe
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.pdb
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.theme.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.panel.AdminLogin.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.panel.sub.UserLogin.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.panel.UserLogin.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.panel.sub.UserRegister.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.panel.HomePage.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.panel.mobile.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.panel.admin_dashboard.admin_dashboard_theme.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.panel.admin_dashboard.admin_tab.dashboard.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.panel.user_panel.tab.user_home_page.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.panel.user_panel.user_login_theme.resources
+F:\nibm-projects\c#\windows_application\gui_project\my_group_1\mobile\mobile\obj\Debug\mobile.panel.admin_dashboard.admin_tab.users.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\bin\Debug\mobile.exe.config
+D:\Gangul's Projects\Mobile C# Project\mobile\bin\Debug\mobile.exe
+D:\Gangul's Projects\Mobile C# Project\mobile\bin\Debug\mobile.pdb
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.Form1.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.panel.HomePage.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.panel.mobile.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.panel.sub.UserLogin.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.panel.sub.UserRegister.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.panel.UserLogin.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.panel.user_panel.tab.user_home_page.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.panel.user_panel.user_login_theme.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.Properties.Resources.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.theme.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.csproj.GenerateResource.cache
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.exe
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.pdb
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.Samsung.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.Xiaomi.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.Apple.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.Card.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.Cash_on_Delivarycs.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.Payment_Method.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.Huawei.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.AdminDashboard.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.AdminLogin.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.EditItemscs.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.DeleteItems.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.Accessories.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.NewItem.resources
+D:\Gangul's Projects\Mobile C# Project\mobile\obj\Debug\mobile.ViewMobilecs.resources
+D:\Mobile C# Project\mobile\bin\Debug\mobile.exe.config
+D:\Mobile C# Project\mobile\bin\Debug\mobile.exe
+D:\Mobile C# Project\mobile\bin\Debug\mobile.pdb
+D:\Mobile C# Project\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+D:\Mobile C# Project\mobile\obj\Debug\mobile.Apple.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.Card.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.Cash_on_Delivarycs.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.Form1.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.Huawei.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.AdminDashboard.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.DeleteItems.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.EditItemscs.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.AdminLogin.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.NewItem.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.panel.HomePage.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.panel.mobile.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.panel.sub.UserLogin.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.panel.sub.UserRegister.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.panel.UserLogin.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.panel.user_panel.tab.user_home_page.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.panel.user_panel.user_login_theme.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.Payment_Method.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.Properties.Resources.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.samsung.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.theme.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.ViewMobilecs.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.Xiaomi.resources
+D:\Mobile C# Project\mobile\obj\Debug\mobile.csproj.GenerateResource.cache
+D:\Mobile C# Project\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+D:\Mobile C# Project\mobile\obj\Debug\mobile.exe
+D:\Mobile C# Project\mobile\obj\Debug\mobile.pdb
+D:\Mobile C# Project\mobile\obj\Debug\mobile.Accessory.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.Accessory.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.Apple.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.Card.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.Cash_on_Delivarycs.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.Form1.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.Huawei.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.AdminDashboard.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.DeleteItems.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.EditItemscs.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.AdminLogin.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.NewItem.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.panel.HomePage.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.panel.mobile.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.panel.sub.UserLogin.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.panel.sub.UserRegister.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.panel.UserLogin.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.panel.user_panel.tab.user_home_page.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.panel.user_panel.user_login_theme.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.Payment_Method.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.Properties.Resources.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.samsung.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.theme.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.ViewMobilecs.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.Xiaomi.resources
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.csproj.GenerateResource.cache
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.exe
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\obj\Debug\mobile.pdb
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\bin\Debug\mobile.exe.config
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\bin\Debug\mobile.exe
+C:\Users\vostro\Downloads\Mobile C# Project\mobile\bin\Debug\mobile.pdb
+E:\Mobile C# Project\mobile\bin\Debug\mobile.exe.config
+E:\Mobile C# Project\mobile\bin\Debug\mobile.exe
+E:\Mobile C# Project\mobile\bin\Debug\mobile.pdb
+E:\Mobile C# Project\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+E:\Mobile C# Project\mobile\obj\Debug\mobile.Apple.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.Form1.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.Huawei.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.AdminDashboard.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.DeleteItems.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.EditItemscs.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.AdminLogin.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.NewItem.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.panel.HomePage.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.panel.mobile.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.Properties.Resources.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.samsung.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.theme.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.ViewMobilecs.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.Xiaomi.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.csproj.GenerateResource.cache
+E:\Mobile C# Project\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+E:\Mobile C# Project\mobile\obj\Debug\mobile.exe
+E:\Mobile C# Project\mobile\obj\Debug\mobile.pdb
+E:\Mobile C# Project\mobile\obj\Debug\mobile.access.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.PlaceOrder.resources
+E:\Mobile C# Project\mobile\obj\Debug\mobile.billPrint.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\bin\Debug\mobile.exe.config
+E:\GUI PROJECT\Mobile C# Project\mobile\bin\Debug\mobile.exe
+E:\GUI PROJECT\Mobile C# Project\mobile\bin\Debug\mobile.pdb
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.access.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.Apple.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.billPrint.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.Form1.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.PlaceOrder.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.Huawei.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.AdminDashboard.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.DeleteItems.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.EditItemscs.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.AdminLogin.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.NewItem.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.panel.HomePage.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.panel.mobile.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.Properties.Resources.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.samsung.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.theme.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.ViewMobilecs.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.Xiaomi.resources
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.csproj.GenerateResource.cache
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.exe
+E:\GUI PROJECT\Mobile C# Project\mobile\obj\Debug\mobile.pdb
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\bin\Debug\mobile.exe.config
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\bin\Debug\mobile.exe
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\bin\Debug\mobile.pdb
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.access.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.Apple.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.billPrint.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.Form1.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.PlaceOrder.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.Huawei.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.AdminDashboard.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.DeleteItems.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.EditItemscs.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.AdminLogin.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.panel.Admin_Area.NewItem.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.panel.HomePage.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.panel.mobile.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.Properties.Resources.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.samsung.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.theme.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.ViewMobilecs.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.Xiaomi.resources
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.csproj.GenerateResource.cache
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.exe
+C:\Users\CJ\Desktop\Mobile C# Project\mobile\obj\Debug\mobile.pdb
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\bin\Debug\mobile.exe.config
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\bin\Debug\mobile.exe
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\bin\Debug\mobile.pdb
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.SuggestedBindingRedirects.cache
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.access.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Apple.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.billPrint.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Form1.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.PlaceOrder.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Huawei.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.AdminDashboard.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.DeleteItems.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.EditItemscs.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.AdminLogin.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.NewItem.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.HomePage.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.mobile.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Properties.Resources.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.samsung.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.theme.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.ViewMobilecs.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Xiaomi.resources
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.GenerateResource.cache
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.exe
+C:\Users\gangu\OneDrive\Desktop\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.pdb
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\bin\Debug\mobile.exe.config
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\bin\Debug\mobile.exe
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\bin\Debug\mobile.pdb
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.SuggestedBindingRedirects.cache
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.access.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Apple.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.billPrint.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Form1.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.PlaceOrder.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Huawei.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.AdminDashboard.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.DeleteItems.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.EditItemscs.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.AdminLogin.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.NewItem.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.HomePage.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.mobile.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Properties.Resources.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.samsung.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.theme.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.ViewMobilecs.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Xiaomi.resources
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.GenerateResource.cache
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.exe
+F:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.pdb
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\bin\Debug\mobile.exe.config
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\bin\Debug\mobile.exe
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\bin\Debug\mobile.pdb
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.access.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Apple.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.billPrint.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Form1.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.PlaceOrder.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Huawei.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.AdminDashboard.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.DeleteItems.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.EditItemscs.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.AdminLogin.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.NewItem.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.HomePage.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.mobile.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Properties.Resources.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.samsung.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.theme.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.ViewMobilecs.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Xiaomi.resources
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.GenerateResource.cache
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.exe
+G:\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.pdb
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\bin\Debug\mobile.exe.config
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\bin\Debug\mobile.exe
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\bin\Debug\mobile.pdb
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.SuggestedBindingRedirects.cache
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.access.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Apple.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.billPrint.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Form1.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.PlaceOrder.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Huawei.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.AdminDashboard.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.DeleteItems.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.EditItemscs.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.AdminLogin.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.Admin_Area.NewItem.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.HomePage.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.panel.mobile.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Properties.Resources.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.samsung.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.theme.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.ViewMobilecs.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.Xiaomi.resources
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.GenerateResource.cache
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.exe
+D:\NIBM\GUI\GUI GROUP PROJECT GANGUL KALHARA\mobile\obj\Debug\mobile.pdb
